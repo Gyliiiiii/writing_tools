@@ -1,0 +1,19 @@
+{
+  "name": "xhs",
+  "description": "小红书母婴育儿内容工作流系统 - 将国外母婴内容本地化为中文小红书风格文章",
+  "version": "1.0.0",
+  "author": {
+    "name": "feifei"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feifei/xhs-workflow"
+  },
+  "keywords": [
+    "小红书",
+    "母婴",
+    "育儿",
+    "内容创作",
+    "本地化"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "writing-tools",
+  "owner": {
+    "name": "Gyliiiiii",
+    "email": "gyliiiiii@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "专业写作工具集合 - 包含小红书母婴内容工作流等写作辅助工具",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "xhs-workflow",
+      "source": {
+        "source": "github",
+        "repo": "Gyliiiiii/writing_tools",
+        "path": "plugins/xhs-workflow"
+      },
+      "description": "小红书母婴育儿内容工作流系统 - 将国外母婴内容本地化为中文小红书风格文章",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gyliiiiii"
+      },
+      "homepage": "https://github.com/Gyliiiiii/writing_tools",
+      "repository": "https://github.com/Gyliiiiii/writing_tools",
+      "license": "MIT",
+      "keywords": [
+        "小红书",
+        "母婴",
+        "育儿",
+        "内容创作",
+        "本地化",
+        "写作工具"
+      ],
+      "category": "content-creation"
+    }
+  ]
+}
