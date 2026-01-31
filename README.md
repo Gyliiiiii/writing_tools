@@ -18,6 +18,20 @@
 
 **版本：** 1.0.0
 
+---
+
+### md-to-wechat
+Markdown 转微信公众号发布工具 - 将 Markdown 文件转换为 HTML 并发布到微信公众号草稿箱
+
+**功能特性：**
+- ✅ Markdown 自动转换为微信适配的 HTML
+- ✅ 内联样式，完美适配微信公众号
+- ✅ 直接调用微信 API，无需 MCP Server
+- ✅ 首次使用引导配置，提供 IP 白名单提示
+- ✅ 支持上传封面图片
+
+**版本：** 1.0.0
+
 ## 🚀 安装方法
 
 ### 1. 添加 Marketplace
@@ -29,19 +43,28 @@
 ### 2. 安装插件
 
 ```bash
+# 安装小红书工作流
 /plugin install xhs-workflow@writing-tools
+
+# 安装 Markdown 转微信工具
+/plugin install md-to-wechat@writing-tools
 ```
 
 ### 3. 使用插件
 
 ```bash
+# 小红书工作流
 /xhs
+
+# Markdown 转微信公众号
+/md-to-wechat
 ```
 
 ## 📖 使用文档
 
 详细使用说明请参考各插件的文档：
 - [xhs-workflow 使用指南](./plugins/xhs-workflow/README.md)
+- [md-to-wechat 使用指南](./plugins/md-to-wechat-plugin/README.md)
 
 ## 🔄 更新 Marketplace
 

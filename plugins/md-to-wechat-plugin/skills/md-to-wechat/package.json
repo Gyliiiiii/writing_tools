@@ -1,0 +1,24 @@
+{
+  "name": "html-to-wechat-draft",
+  "version": "1.0.0",
+  "description": "将 HTML 文件上传到微信公众号草稿箱",
+  "type": "module",
+  "main": "html-to-wechat-draft.js",
+  "scripts": {
+    "upload": "node html-to-wechat-draft.js"
+  },
+  "keywords": [
+    "wechat",
+    "html",
+    "draft",
+    "公众号"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^17.2.3",
+    "form-data": "^4.0.0",
+    "marked": "^17.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "md-to-wechat",
+  "version": "1.0.0",
+  "description": "Markdown 转微信公众号发布工具",
+  "author": "",
+  "skills": [
+    {
+      "name": "md-to-wechat",
+      "path": "skills/md-to-wechat"
+    }
+  ]
+}
